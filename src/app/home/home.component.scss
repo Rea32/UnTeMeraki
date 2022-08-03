@@ -1,0 +1,50 @@
+#bar{
+    position: fixed;
+    height: 100px;
+    width: 100%;
+    background-color: bisque;
+    margin-top: unset;
+}
+
+#navigationBar{
+    height: 100px;
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+    justify-content: space-around;
+}
+
+#logo img{
+    width: 90px;
+    height: 90px;
+    margin-top: 5px;
+}
+nav, #rrss{
+    display: flex;
+    align-items: center;
+
+}
+
+nav button{
+    height: 40px;
+    border-style: none;
+    background-color: bisque;
+    margin-right: 20px;
+    
+}
+
+#rrss button{
+    width: auto;
+    height: auto;
+    margin-right: 20px;
+    
+
+
+    
+}
+#instagram, #facebook {
+    height: 60px;
+    width: 60px;
+    
+}
+
